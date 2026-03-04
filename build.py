@@ -5,12 +5,14 @@ Renders all .md files as HTML with clickable links so LLMs using
 web fetch tools can navigate the content by following links.
 """
 
+import posixpath
 import re
 import shutil
 from pathlib import Path
 
 import markdown
 
+BASE_URL = "https://initialchicken.github.io/Dodge-Ram-FSM"
 EXCLUDE = {".git", ".github", "_site", "__pycache__"}
 
 TEMPLATE = """<!DOCTYPE html>
@@ -25,9 +27,17 @@ TEMPLATE = """<!DOCTYPE html>
 </html>"""
 
 
-def convert_md_links(html):
-    """Rewrite .md hrefs to .html in anchor tags."""
-    return re.sub(r'(href="[^"]*?)\.md(")', r"\1.html\2", html)
+def convert_md_links(html, file_rel_dir):
+    """Rewrite .md hrefs to absolute .html URLs."""
+    def replace_link(match):
+        rel_href = match.group(1) + ".html"
+        if file_rel_dir:
+            full_path = posixpath.normpath(posixpath.join(file_rel_dir, rel_href))
+        else:
+            full_path = posixpath.normpath(rel_href)
+        return f'href="{BASE_URL}/{full_path}"'
+
+    return re.sub(r'href="([^"]*?)\.md"', replace_link, html)
 
 
 def build():
@@ -63,7 +73,8 @@ def build():
             md_converter.reset()
             md_content = path.read_text(encoding="utf-8", errors="replace")
             html_body = md_converter.convert(md_content)
-            html_body = convert_md_links(html_body)
+            file_rel_dir = str(rel.parent) if str(rel.parent) != "." else ""
+            html_body = convert_md_links(html_body, file_rel_dir)
 
             # Extract title from first h1, fall back to filename
             m = re.search(r"<h1[^>]*>(.*?)</h1>", html_body)
