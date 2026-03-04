@@ -1,0 +1,30 @@
+# 8W-30 FUEL/IGNITION SYSTEM
+
+## BR - 8W-30-5
+
+![Fig. 8W-30-5 Fuel/Ignition System Wiring Diagram (Part 1)
+- AIRBAG CONTROL MODULE (8W-13-5)
+- JOINT CONNECTOR NO. 7
+- DATA LINK CONNECTOR
+- ENGINE CONTROL MODULE
+- INSTRUMENT CLUSTER (8W-40-3)
+- CONTROLLER ANTI-LOCK BRAKE SYSTEM
+- CENTRAL TIMER MODULE (8W-43-2)
+- Connectors: C20, C21, C134, C130, C1
+- Wire colors: WT/BK (White/Black), VT/BR (Violet/Brown), DG/BR (Dark Green/Brown)
+- Circuit numbers: D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D20](page_27_fig_1.jpg)
+
+*Fig. 1 Fig. 8W-30-5 Fuel/Ignition System Wiring Diagram (Part 1)
+- AIRBAG CONTROL MODULE (8W-13-5)
+- JOINT CONNECTOR NO. 7
+- DATA LINK CONNECTOR
+- ENGINE CONTROL MODULE
+- INSTRUMENT CLUSTER (8W-40-3)
+- CONTROLLER ANTI-LOCK BRAKE SYSTEM
+- CENTRAL TIMER MODULE (8W-43-2)
+- Connectors: C20, C21, C134, C130, C1
+- Wire colors: WT/BK (White/Black), VT/BR (Violet/Brown), DG/BR (Dark Green/Brown)
+- Circuit numbers: D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D20*
+
+BR520006
+J08BW-9

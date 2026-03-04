@@ -1,0 +1,15 @@
+DOOD
+
+0
+
+.
+
+CORROSION PROTECTION (FRONT FENDER)
+
+![Figure](page_8_fig_1.jpg)
+
+*Fig. 1*
+
+GALVANNEALED
+
+NON-GALVANNEALED

@@ -1,0 +1,61 @@
+# 8W-30 FUEL/IGNITION SYSTEM - BR
+
+## Page 8W-30-17
+
+![Fig. Fuel Injector Pump Wiring Diagram
+- BATT A14: Battery connection
+- FUEL PUMP RELAY IN PDC (M20-1): Fuel pump relay in Power Distribution Center
+- A40 14 RD/LG: Red/Light Green wire
+- X-S C130: Splice connection
+- A40 14 RD/WT: Red/White wire
+- FUEL INJECTOR PUMP: Main fuel injector pump assembly with connections:
+  - 1: DATALINK FUEL INJECTOR PUMP (K243 20 OR/BR)
+  - 2: DATALINK FUEL INJECTOR PUMP (K2W 20 LG/PK)
+  - 3: DATALINK FUEL INJECTOR PUMP (K243 20 YL/OR)
+  - 4: FAULT SIGNAL (K48 20 DG)
+  - 5: CAMSHAFT POSITION SENSOR SIGNAL (K44 18 VT/OR)
+  - 6: KNOCK SENSOR RETURN (K46 18 LB/RD)
+  - 7: GROUND (Z12 18 BK/TN)
+  - 8: GROUND (Z12 18 BK/TN)
+- S168 (8W-15-5): Ground splice
+- G105 (8W-15-5): Ground connection
+- ENGINE CONTROL MODULE connections:
+  - 14: DATALINK SHIELD FUEL INJECTOR PUMP
+  - 20: DATALINK K1 FUEL INJECTOR PUMP
+  - 33: DATALINK K2 FUEL INJECTOR PUMP
+  - 48: FAULT SIGNAL
+  - 34: CAMSHAFT POSITION SENSOR SIGNAL
+  - 35: KNOCK SENSOR RETURN
+  - 30: GROUND
+  - 40: GROUND](page_39_fig_1.jpg)
+
+*Fig. 1 Fig. Fuel Injector Pump Wiring Diagram
+- BATT A14: Battery connection
+- FUEL PUMP RELAY IN PDC (M20-1): Fuel pump relay in Power Distribution Center
+- A40 14 RD/LG: Red/Light Green wire
+- X-S C130: Splice connection
+- A40 14 RD/WT: Red/White wire
+- FUEL INJECTOR PUMP: Main fuel injector pump assembly with connections:
+  - 1: DATALINK FUEL INJECTOR PUMP (K243 20 OR/BR)
+  - 2: DATALINK FUEL INJECTOR PUMP (K2W 20 LG/PK)
+  - 3: DATALINK FUEL INJECTOR PUMP (K243 20 YL/OR)
+  - 4: FAULT SIGNAL (K48 20 DG)
+  - 5: CAMSHAFT POSITION SENSOR SIGNAL (K44 18 VT/OR)
+  - 6: KNOCK SENSOR RETURN (K46 18 LB/RD)
+  - 7: GROUND (Z12 18 BK/TN)
+  - 8: GROUND (Z12 18 BK/TN)
+- S168 (8W-15-5): Ground splice
+- G105 (8W-15-5): Ground connection
+- ENGINE CONTROL MODULE connections:
+  - 14: DATALINK SHIELD FUEL INJECTOR PUMP
+  - 20: DATALINK K1 FUEL INJECTOR PUMP
+  - 33: DATALINK K2 FUEL INJECTOR PUMP
+  - 48: FAULT SIGNAL
+  - 34: CAMSHAFT POSITION SENSOR SIGNAL
+  - 35: KNOCK SENSOR RETURN
+  - 30: GROUND
+  - 40: GROUND*
+
+BRS03017
+
+288BW-9

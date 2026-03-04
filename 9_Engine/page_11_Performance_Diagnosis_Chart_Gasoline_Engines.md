@@ -1,0 +1,11 @@
+## DIAGNOSIS AND TESTING (Continued)
+
+### SERVICE DIAGNOSIS—GASOLINE ENGINES
+
+#### PERFORMANCE DIAGNOSIS CHART—GASOLINE ENGINES
+
+| CONDITION | POSSIBLE CAUSES | CORRECTION |
+|-----------|-----------------|------------|
+| ENGINE WILL NOT CRANK | 1. Weak or dead battery<br>2. Corroded or loose battery connections<br>3. Faulty starter or related circuit(s)<br>4. Seized accessory drive component<br>5. Engine internal mechanical failure or hydro-static lock | 1. Charge/Replace Battery. Refer to Group 8A, Battery, for correct procedures. Check charging system. Refer to Group 8C, Charging Systems, for correct procedures.<br>2. Clean/tighten suspect battery/starter connections<br>3. Check starting system. Refer to Group 8B, Starting Systems, for correct diagnostics/procedures<br>4. Remove accessory drive belt and attempt to start engine. If engine starts, repair/replace seized component.<br>5. Refer to Group 9, Engine, for correct diagnostics/procedures |
+| ENGINE CRANKS BUT WILL NOT START | 1. No spark<br>2. No fuel<br>3. Low or no engine compression | 1. Check for spark. Refer to Group 8D, Ignition System, for correct procedures.<br>2. Perform fuel pressure test, and if necessary, inspect fuel injector(s) and driver circuits. Refer to Group 14, Fuel System, for correct procedures.<br>3. Perform cylinder compression pressure test. Refer to Group 9, Engine, for correct procedures. |
+| ENGINE LOSS OF POWER | 1. Worn or burned distributor rotor<br>2. Worn distributor shaft<br>3. Worn or incorrect gapped spark plugs<br>4. Dirt or water in fuel system<br>5. Faulty fuel pump<br>6. Incorrect valve timing<br>7. Blown cylinder head gasket<br>8. Low compression<br>9. Burned, warped, or pitted valves<br>10. Plugged or restricted exhaust system<br>11. Faulty ignition cables<br>12. Faulty ignition coil | 1. Install new distributor rotor<br>2. Remove and repair distributor (Refer to group 8D, Ignition System)<br>3. Clean plugs and set gap. (Refer to group 8D, Ignition System)<br>4. Clean system and replace fuel filter<br>5. Install new fuel pump<br>6. Correct valve timing<br>7. Install new cylinder head gasket<br>8. Test cylinder compression<br>9. Install/Reface valves as necessary<br>10. Install new parts as necessary<br>11. Replace any cracked or shorted cables<br>12. Test and replace, as necessary (Refer to Group 8D, ignition system) |

@@ -1,0 +1,59 @@
+# 8W-30 FUEL/IGNITION SYSTEM
+
+![Fig. 8W-30-12 Fuel Heater Relay Circuit Wiring Diagram
+- BATT A0 with FUSE F2 20A (8W-10-3)
+- POWER DISTRIBUTION CENTER
+- ST-RUN A21 with FUSE F11 10A (8W-10-10)
+- J JUNCTION BLOCK
+- A112 18 RD/YL
+- C4 F12 20 GR/WT
+- C134 connector (65)
+- F12 20 GR/WT
+- S105 (8W-13-3)
+- F12 20 GR/WT
+- FUEL HEATER RELAY (IN PDC)
+- 30 connection (90)
+- 87 connection with 85 Y
+- A40 18 RD/YL
+- C130 connector (63)
+- A40 18 RD/BK
+- FUEL HEATER
+- Z11 18 BK/WT
+- S161 (8W-14-6)
+- T12 18 BK/WT
+- Z1 20 BK
+- JOINT CONNECTOR NO. 1 (IN PDC)
+- Z1 20 BK
+- G107 (8W-15-4)
+- G100 (8W-15-4)](page_34_fig_1.jpg)
+
+*Fig. 1 Fig. 8W-30-12 Fuel Heater Relay Circuit Wiring Diagram
+- BATT A0 with FUSE F2 20A (8W-10-3)
+- POWER DISTRIBUTION CENTER
+- ST-RUN A21 with FUSE F11 10A (8W-10-10)
+- J JUNCTION BLOCK
+- A112 18 RD/YL
+- C4 F12 20 GR/WT
+- C134 connector (65)
+- F12 20 GR/WT
+- S105 (8W-13-3)
+- F12 20 GR/WT
+- FUEL HEATER RELAY (IN PDC)
+- 30 connection (90)
+- 87 connection with 85 Y
+- A40 18 RD/YL
+- C130 connector (63)
+- A40 18 RD/BK
+- FUEL HEATER
+- Z11 18 BK/WT
+- S161 (8W-14-6)
+- T12 18 BK/WT
+- Z1 20 BK
+- JOINT CONNECTOR NO. 1 (IN PDC)
+- Z1 20 BK
+- G107 (8W-15-4)
+- G100 (8W-15-4)*
+
+26BW-9
+
+BR8S02012

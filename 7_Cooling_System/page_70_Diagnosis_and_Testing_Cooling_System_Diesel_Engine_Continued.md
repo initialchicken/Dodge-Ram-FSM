@@ -1,0 +1,13 @@
+# 7-14 COOLING SYSTEM — BR
+
+## DIAGNOSIS AND TESTING (Continued)
+
+### COOLING SYSTEM DIAGNOSIS—DIESEL ENGINE—CONTINUED
+
+| CONDITION | POSSIBLE CAUSES | CORRECTION |
+|-----------|-----------------|------------|
+| HOSE OR HOSES COLLAPSE WHEN ENGINE IS COOLING | 1. Vacuum created in cooling system on engine cool-down is not being relieved through coolant reserve/overflow system. | 1. (a) Radiator cap relief valve stuck. Refer to Radiator Cap in this group. Replace if necessary.<br>(b) Hose between coolant reserve/overflow tank and radiator is kinked. Repair as necessary.<br>(c) Vent at coolant reserve/overflow tank is plugged. Clean vent and repair as necessary.<br>(d) Reserve/overflow tank is internally blocked or plugged. Check for blockage and repair as necessary. |
+| NOISY FAN | 1. Fan blades loose.<br>2. Fan blades striking a surrounding object.<br>3. Air obstructions at radiator or air conditioning condenser.<br>4. Thermal viscous fan drive has defective bearing.<br>5. A certain amount of fan noise (roaring) may be evident on models equipped with a thermal viscous fan drive. Some of this noise is normal. | 1. Replace fan blade assembly. Refer to Cooling System Fans in this group.<br>2. Locate point of fan blade contact and repair as necessary.<br>3. Remove obstructions and/or clean debris or insects from radiator or A/C condenser.<br>4. Replace fan drive. Bearing is not serviceable. Refer to Viscous Fan Drive in this group.<br>5. Refer to Viscous Fan Drive in this group for an explanation of normal fan noise. |
+| INADEQUATE AIR CONDITIONER PERFORMANCE (COOLING SYSTEM SUSPECTED) | 1. Radiator and/or A/C condenser is restricted, obstructed or dirty (insects, leaves etc.).<br>2. Thermal viscous fan drive is freewheeling.<br>3. Engine is overheating (heat may be transferred from radiator to A/C condenser. High underhood temperatures due to engine overheating may also transfer heat to A/C components).<br>4. Some models with certain engines are equipped with air seals at the radiator and/or A/C condenser. If these seals are missing or damaged, not enough air flow will be pulled through the radiator and A/C condenser. | 1. Remove restriction and/or clean as necessary. Refer to Radiator Cleaning in this group.<br>2. Refer to Viscous Fan Drive for diagnosis. Repair as necessary.<br>3. Correct overheating condition. Refer to text in Group 7, Cooling.<br>4. Check for missing or damaged air seals and repair as necessary. |
+
+J9507-60

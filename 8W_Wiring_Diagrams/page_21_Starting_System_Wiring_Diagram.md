@@ -1,0 +1,41 @@
+# 8W-21 STARTING SYSTEM
+
+## 8W-21-3
+
+![Starting System Wiring Diagram
+- FROM ENGINE STARTER MOTOR RELAY (RELAY CENTER) (8W-21-2)
+- T41 BK/WT
+- MT/AT split paths
+- C125 connectors
+- Z12 22 BR/TN wire segments
+- S126 (8W-15-5)
+- C127 connector
+- Z12 14 BR/TN wire segments
+- C130 connector
+- S168 (8W-15-8)
+- S168 (8W-15-6)
+- C105 (8W-15-5)
+- S127 junction
+- C1 POWERTRAIN CONTROL MODULE (PARK/NEUTRAL POSITION SWITCH SENSE) (8W-30-15)
+- PARK/NEUTRAL POSITION SWITCH (8W-35-10)](page_21_fig_2.jpg)
+
+*Fig. 2 Starting System Wiring Diagram
+- FROM ENGINE STARTER MOTOR RELAY (RELAY CENTER) (8W-21-2)
+- T41 BK/WT
+- MT/AT split paths
+- C125 connectors
+- Z12 22 BR/TN wire segments
+- S126 (8W-15-5)
+- C127 connector
+- Z12 14 BR/TN wire segments
+- C130 connector
+- S168 (8W-15-8)
+- S168 (8W-15-6)
+- C105 (8W-15-5)
+- S127 junction
+- C1 POWERTRAIN CONTROL MODULE (PARK/NEUTRAL POSITION SWITCH SENSE) (8W-30-15)
+- PARK/NEUTRAL POSITION SWITCH (8W-35-10)*
+
+BR502103
+
+J08W9-9
