@@ -8,6 +8,7 @@ web fetch tools can navigate the content by following links.
 import posixpath
 import re
 import shutil
+import urllib.parse
 from pathlib import Path
 
 import markdown
@@ -27,6 +28,11 @@ TEMPLATE = """<!DOCTYPE html>
 </html>"""
 
 
+def _quote_path(path):
+    """URL-encode a path, preserving '/' separators."""
+    return urllib.parse.quote(path, safe="/")
+
+
 def convert_md_links(html, file_rel_dir):
     """Rewrite .md hrefs to absolute .html URLs."""
     def replace_link(match):
@@ -35,9 +41,24 @@ def convert_md_links(html, file_rel_dir):
             full_path = posixpath.normpath(posixpath.join(file_rel_dir, rel_href))
         else:
             full_path = posixpath.normpath(rel_href)
-        return f'href="{BASE_URL}/{full_path}"'
+        return f'href="{BASE_URL}/{_quote_path(full_path)}"'
 
     return re.sub(r'href="([^"]*?)\.md"', replace_link, html)
+
+
+def convert_img_srcs(html, file_rel_dir):
+    """Rewrite relative image src attributes to absolute URLs."""
+    def replace_src(match):
+        rel_src = match.group(1)
+        if rel_src.startswith(("http://", "https://")):
+            return match.group(0)
+        if file_rel_dir:
+            full_path = posixpath.normpath(posixpath.join(file_rel_dir, rel_src))
+        else:
+            full_path = posixpath.normpath(rel_src)
+        return f'src="{BASE_URL}/{_quote_path(full_path)}"'
+
+    return re.sub(r'src="([^"]*?)"', replace_src, html)
 
 
 def build():
@@ -75,6 +96,7 @@ def build():
             html_body = md_converter.convert(md_content)
             file_rel_dir = str(rel.parent) if str(rel.parent) != "." else ""
             html_body = convert_md_links(html_body, file_rel_dir)
+            html_body = convert_img_srcs(html_body, file_rel_dir)
 
             # Extract title from first h1, fall back to filename
             m = re.search(r"<h1[^>]*>(.*?)</h1>", html_body)
