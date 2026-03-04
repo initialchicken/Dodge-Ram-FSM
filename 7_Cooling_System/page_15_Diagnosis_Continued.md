@@ -1,0 +1,11 @@
+## DIAGNOSIS AND TESTING (Continued)
+
+| Condition | Possible Causes | Correction |
+|-----------|-----------------|------------|
+| Temperature Gauge Reads High Or The Coolant Warning Lamp Illuminates. Coolant May Or May Not Be Lost Or Leaking From The Cooling System | 1. Trailer is being towed, a steep hill is being climbed, vehicle is operated in slow moving traffic, or engine is being idled with very high ambient (outside) temperatures and the air conditioning is on. Higher altitudes could aggravate these conditions. | 1. This may be a temporary condition and repair is not necessary. Turn off the air conditioning and attempt to drive the vehicle without any of the previous conditions. Observe the temperature gauge. The gauge should return to the normal range. If the gauge does not return to the normal range, determine the cause for overheating and repair. Refer to Possible Causes (2-20). |
+| | 2. Is the temperature gauge reading correctly? | 2. Check gauge. Refer to Group 8E. Repair as necessary. |
+| | 3. Is the temperature warning illuminating unnecessarily? | 3. Check warning lamp operation. Refer to Group 8E. Repair as necessary. |
+| | 4. Coolant low in coolant reserve/overflow tank and radiator? | 4. Check for coolant leaks and repair as necessary. Refer to Testing Cooling System for Leaks in this Group. |
+| | 5. Pressure cap not installed tightly. If cap is loose, boiling point of coolant will be lowered. Also refer to the following Step 6. | 5. Tighten cap |
+| | 6. Poor seals at the radiator cap. | 6. (a) Check condition of cap and cap seats. Refer to Radiator Cap. Replace cap if necessary. (b) Check condition of radiator filler neck. If neck is bent or damaged, replace radiator. |
+| | 7. Coolant level low in radiator but not in coolant reserve/overflow tank. This means the radiator is not drawing coolant from the coolant reserve/overflow tank as the engine cools | 7. (a) Check condition of radiator cap and cap seals. Refer to Radiator Cap in this Group. Replace cap if necessary. (b) Check condition of radiator filler neck. If neck is bent or damaged, replace radiator. (c) Check condition of the hose from the radiator to the coolant tank. It should fit tight at both ends without any kinks or tears. Replace hose if necessary. (d) Check coolant reserve/overflow tank and tanks hoses for blockage. Repair as necessary. |

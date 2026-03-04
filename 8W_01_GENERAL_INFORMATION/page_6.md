@@ -1,0 +1,5 @@
+The wiring diagrams are grouped into individual sections. If a component is most likely found in a particular group, it will be shown complete (all wires, connectors, and pins) within that group. For example, the Auto Shutdown Relay is most likely to be found in Group 30, so it is shown there complete. It can, however, be shown partially in another group if it contains some associated wiring.
+
+International symbols are used throughout the wiring diagrams. These symbols are consistent with those being used around the world
+
+GROUP TOPIC 8W-01 thru 8W-09 General Information and Diagram Overview 8W-10 thru 8W-19 Main Sources of Power and Vehicle Grounding 8W-20 thru 8W-29 Starting and Charging 8W-30 thru 8W-39 Powertrain/Drivetrain Systems 8W-40 thru 8W-49 Body Electrical items and A/C 8W-50 thru 8W-59 Exterior Lighting, Wipers, and Trailer Tow Power Accessories 8W-60 thru 8W-69 8W-70 Splice Information 8W-80 Connector Pin Outs 8W-90 Connector Locations (including grounds) 8W-95 Splice Locations

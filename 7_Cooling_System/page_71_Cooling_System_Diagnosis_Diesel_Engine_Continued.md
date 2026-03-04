@@ -1,0 +1,10 @@
+# BR COOLING SYSTEM 7-15
+
+## DIAGNOSIS AND TESTING (Continued)
+
+### COOLING SYSTEM DIAGNOSIS—DIESEL ENGINE—CONTINUED
+
+| CONDITION | POSSIBLE CAUSES | CORRECTION |
+|-----------|-----------------|------------|
+| INADEQUATE HEATER PERFORMANCE. MAY BE ACCOMPANIED BY LOW GAUGE READING | 1. Diesel engines, due to their inherent efficiency are slower to warm up than gasoline powered engines, and will operate at lower temperatures when the vehicle is unloaded.<br>2. Coolant level low.<br>3. Obstructions in heater hose fittings at engine.<br>4. Heater hose kinked.<br>5. Water pump is not pumping water to heater core. When the engine is fully warmed up, both heater hoses should be hot to the touch. If only one of the hoses is hot, the water pump may not be operating correctly. The accessory drive belt may also be slipping causing poor water pump operation. | 1. The low gauge reading may be normal. Refer to Thermostats in the manual text for information. See Thermostat Diagnosis - Diesel Engine.<br>2. Refer to Testing Cooling System For Leaks in the manual text. Repair as necessary.<br>3. Remove heater hoses at both ends and check for obstructions. Repair as necessary.<br>4. Locate kinked area and repair as necessary.<br>5. Refer to Water Pumps in this group. Repair as necessary. If a slipping belt is detected, refer to Engine Accessory Drive Belts in this group. Repair as necessary. |
+| HEAT ODOR | 1. Various heat shields are used at certain drive line components. One or more of these shields may be missing.<br>2. Is temperature gauge reading above the normal range?<br>3. Is cooling fan operating correctly?<br>4. Has undercoating been applied to any unnecessary component? | 1. Locate missing shields and replace or repair as necessary.<br>2. Refer to the previous Temperature Gauge Reads High in these Diagnosis Charts. Repair as necessary.<br>3. Refer to Cooling System Fan in this group for diagnosis. Repair as necessary.<br>4. Clean undercoating as necessary. |
